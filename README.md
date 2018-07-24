@@ -1,7 +1,7 @@
 Copy as Markdown
 ==========================
 
-Extension that allows you to easily copy text in a Markdown format.
+Extension that allows you to easily copy text in a Markdown format. Based on extension by [@eungjun-yi](https://github.com/eungjun-yi/copy-as-markdown-quot).
 
 Install
 -------
@@ -23,3 +23,8 @@ Usage
 1. Select text in a web page and do right-click.
 2. Select 'Copy as Markdown quotation'.
 3. Paste the text. 
+
+Credits
+-------
+
+* [Forked from @eungjun-yi](https://github.com/eungjun-yi/copy-as-markdown-quot).
